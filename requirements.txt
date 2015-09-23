@@ -1,3 +1,4 @@
+twisted
 service_identity
 cython
 cymysql
@@ -8,11 +9,11 @@ cymysql
 # bouser-ezekiel
 # bouser-hitsl
 
-https+git://bitbucket.org/hitsl/bouser.git@master#egg=bouser
-https+git://bitbucket.org/hitsl/bouser_db.git@master#egg=bouser_db
-https+git://bitbucket.org/hitsl/bouser_simargl.git@master#egg=bouser_simargl
-https+git://bitbucket.org/hitsl/bouser_ezekiel.git@master#egg=bouser_ezekiel
-https+git://bitbucket.org/hitsl/bouser_hitsl.git@master#egg=bouser_hitsl
+git+https://bitbucket.org/hitsl/bouser.git@master#egg=bouser
+git+https://bitbucket.org/hitsl/bouser_db.git@master#egg=bouser_db
+git+https://bitbucket.org/hitsl/bouser_simargl.git@master#egg=bouser_simargl
+git+https://bitbucket.org/hitsl/bouser_ezekiel.git@master#egg=bouser_ezekiel
+git+https://bitbucket.org/hitsl/bouser_hitsl.git@master#egg=bouser_hitsl
 
 python2-pythondialog
 jinja2
