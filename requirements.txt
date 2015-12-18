@@ -9,11 +9,11 @@ cymysql
 # bouser-ezekiel
 # bouser-hitsl
 
-git+https://bitbucket.org/hitsl/bouser.git@master#egg=bouser
-git+https://bitbucket.org/hitsl/bouser_db.git@master#egg=bouser_db
-git+https://bitbucket.org/hitsl/bouser_simargl.git@master#egg=bouser_simargl
-git+https://bitbucket.org/hitsl/bouser_ezekiel.git@master#egg=bouser_ezekiel
-git+https://bitbucket.org/hitsl/bouser_hitsl.git@master#egg=bouser_hitsl
+git+https://stash.bars-open.ru/scm/medvtr/bouser.git@master#egg=bouser
+git+https://stash.bars-open.ru/scm/medvtr/bouser.db.git@master#egg=bouser_db
+git+https://stash.bars-open.ru/scm/medvtr/bouser.simargl.git@master#egg=bouser_simargl
+git+https://stash.bars-open.ru/scm/medvtr/bouser.ezekiel.git@master#egg=bouser_ezekiel
+git+https://stash.bars-open.ru/scm/medvtr/bouser.hitsl.git@master#egg=bouser_hitsl
 
 python2-pythondialog
 jinja2
